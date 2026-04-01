@@ -6,8 +6,6 @@
 
 ShrinkIt is a premium, client-side web application designed for high-performance and privacy-focused image compression. It allows users to optimize individual images or entire folder hierarchies directly in their browser—no data ever leaves the local machine.
 
-![ShrinkIt Landing Page](https://via.placeholder.com/1200x600/1e1b4b/ffffff?text=ShrinkIt+Landing+Page) *(Replace with a real screenshot before publishing)*
-
 ## ✨ Key Features
 
 - **Smart Auto-Optimization**: Zero-configuration workflow. Just drop your files, and ShrinkIt automatically applies the "Goldilocks" compression profile (78% quality) to balance file size and visual fidelity.
